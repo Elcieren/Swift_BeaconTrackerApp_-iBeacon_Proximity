@@ -1,7 +1,8 @@
 ## Swift_BeaconTrackerApp_iBeacon_Proximity
-| Sinyali Alan Cihazdaki Uzaklik Bilgisi  | Sinyal Yayan Cihaz |
+| Sinyali Alan Cihazdaki Uzaklik Bilgisi | Sinyal Yayan Cihaz |
 |---------|---------|
-| ![Video 1](https://github.com/user-attachments/assets/789a0034-0dac-4657-919b-b47d8535227f) || ![Video 2](https://github.com/user-attachments/assets/89aa155e-55ca-4644-9779-4d9f41b523ab) |
+| ![Video 1](https://github.com/user-attachments/assets/789a0034-0dac-4657-919b-b47d8535227f) | ![Video 2](https://github.com/user-attachments/assets/89aa155e-55ca-4644-9779-4d9f41b523ab) |
+
 
  <details>
     <summary><h2>Uygulma Amacı</h2></summary>
