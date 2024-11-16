@@ -3,6 +3,27 @@
 |---------|---------|
 | <img src="https://github.com/user-attachments/assets/789a0034-0dac-4657-919b-b47d8535227f" width="400" height="600"> | <img src="https://github.com/user-attachments/assets/89aa155e-55ca-4644-9779-4d9f41b523ab" width="400" height="600"> |
 
+<details>
+    <summary><h2>Sinyal Yaymak Icin  Assagidaki Adimlari takip et(Locate Beacon)</h2></summary>
+    Adım 1: Beacon Sinyali Yayan Bir Cihaz Ayarlama
+    Locate Beacon Uygulamasını Kullanma:
+    İkinci bir cihaza (örneğin, başka bir telefon veya tablet) Locate Beacon uygulamasını indirin.
+    Bu uygulamayı kullanarak bir beacon sinyali oluşturabilirsiniz.
+    UUID, major ve minor değerlerini belirlerken, uygulamanızdaki kodda kullanılan değerlerle aynı olmasına dikkat edin
+    Adım  2: UUID, Major ve Minor Değerlerini Ayarlama:
+    Locate Beacon uygulamasında, UUID'yi manuel olarak girin (5A4BCFCE-174E-4BAC-A814-092E77F6B7E5).
+    Major: 123, Minor: 456 değerlerini aynı şekilde ayarlayın.
+    Adım 3: Sinyali Başlatın:
+    Beacon sinyali yaymaya başlayın
+ 
+     ```
+     let uuid = UUID(uuidString: "5A4BCFCE-174E-4BAC-A814-092E77F6B7E5")!
+     let beaconRegion = CLBeaconRegion(proximityUUID: uuid, major: 123, minor: 456, identifier: "Mybeacon")
+     ```
+
+    
+  </details> 
+
 
 
  <details>
