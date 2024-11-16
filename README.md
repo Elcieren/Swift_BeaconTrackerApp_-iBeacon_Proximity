@@ -1,7 +1,7 @@
 ## Swift-LocalNotifications Uygulama Kullanımı
-| Sinyal Yayan Cihaz Uzaklik Bilgisi | Sinyal Yayan Cihaz |
-|---------|---------|
-| ![Video 1](https://github.com/user-attachments/assets/789a0034-0dac-4657-919b-b47d8535227f) | ![Video 2](https://github.com/user-attachments/assets/0fa84935-1713-42ae-871d-1544b190e7fa) |
+| Sinyal Yayan Cihaz Uzaklik Bilgisi |
+|---------|
+| ![Video 1](https://github.com/user-attachments/assets/789a0034-0dac-4657-919b-b47d8535227f) |
 
  <details>
     <summary><h2>Uygulma Amacı</h2></summary>
