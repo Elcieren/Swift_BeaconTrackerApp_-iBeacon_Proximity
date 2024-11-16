@@ -1,7 +1,7 @@
 ## Swift_BeaconTrackerApp_iBeacon_Proximity
 | Sinyali Alan Cihazdaki Uzaklık Bilgisi | Sinyal Yayan Cihaz |
 |---------|---------|
-| <img src="https://github.com/user-attachments/assets/789a0034-0dac-4657-919b-b47d8535227f" width="400" height="300"> | <img src="https://github.com/user-attachments/assets/89aa155e-55ca-4644-9779-4d9f41b523ab" width="400" height="300"> |
+| <img src="https://github.com/user-attachments/assets/789a0034-0dac-4657-919b-b47d8535227f" width="400" height="700"> | <img src="https://github.com/user-attachments/assets/89aa155e-55ca-4644-9779-4d9f41b523ab" width="400" height="300"> |
 
 
 
